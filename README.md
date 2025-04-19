@@ -1,4 +1,4 @@
-# MLOPS
+# Enhancing Reliability in Predicting Amazon Reviews
 This research focuses on developing an advanced system to predict the reliability of Amazon reviews by combining multiple techniques. 
 It uses web scraping for data collection, APIs for structured retrieval, and machine learning models to classify reviews. 
 The system employs BERT for analyzing review text and Random Forest to assess metadata, such as timestamps, reviewer history, and purchase verification. 
